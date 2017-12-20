@@ -518,6 +518,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+* [Hydux - An Elm-Like and "batteries-included" alternative for Redux](https://github.com/hydux/hydux)
 
 ##### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
